@@ -5,6 +5,7 @@
   - [React Native](https://reactnative.dev/)
   - [Expo](https://docs.expo.dev/tutorial/introduction/)
   - [Redux Toolkit](https://redux-toolkit.js.org/introduction/getting-started)
+  - [Tailwind](https://github.com/jaredh159/tailwind-react-native-classnames)
   
 ## Aplicativo funcionando :iphone:
 

@@ -1,10 +1,10 @@
 import { StyleSheet } from "react-native";
 
 export default styles = StyleSheet.create({
-    logo:{
-        width: 100,
+    icon:{
+        width: 120,
         height: 100,
-        resizeMode:"contain"        
-    },    
+        resizeMode: "contain"
+    }
 });
- 
+
