@@ -10,4 +10,4 @@
 
 
 ## Como testar no seu dispositivo Android :iphone:
-- Basta [clicar aqui](#) para instalar no seu dispositivo Android
+- Basta [clicar aqui](#) para instalar o app no seu dispositivo Android
